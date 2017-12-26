@@ -1,27 +1,12 @@
-# Крос-платформне Програмування
+# simple-routing-server
+using express
 
-Лаболаторна робота №1
-по темі "Розробка веб-аплікації"
 
-- Мета
-    1. Розробка та створення браузерної аплікації із використанням карти Google Maps.
-    2. Застосування сторонных API (на вибір студента)
-    3. Вивчення об'єкта fetch для створення запитів на сторонні ресурси
-
-- Хід виконання
-    1. Вивчення документації API Google Maps
-    2. Вибір стороннього API (вибрано openWeather v2.5 + API NASA Imagery (both use APIKEY connection))
-    3. Вивчення документації сторонніх API
-    4. Проектування та створення браузерної аплікації з використанням вибраних API
-    5. Тестування отриманих результатів, рефакторинг коду
-    
- - Інструкція користувача
-    1. Запустіть файл weather.html
-    2. Зачекайте декілька секунд для встановлення початкових маркерів над 5-а містами України
-    3. Натисніть ПКМ на будь-якій точці земної кулі.
-    4. Зачекайте декілька секунд для отримання даних із серверів. (до 10 секунд із-за сервера NASA)
-    5. Натисніть на власностворений маркер (має з'явитись вікно з снімком зі супутника NASA)
-    
-    P.S.: відсутність зображення зі супутника не є критичною. Частина фотографій відсутня в їхній базі.
-
-![alt text](https://github.com/dku4cdm/KPP_LABS/blob/master/weather_screen.PNG)
+# Use npm for install node and express
+Simple routing on three same pages
+# First page
+![alt text](https://github.com/dku4cdm/simple-routing-server/blob/master/first.PNG)
+# Second page
+![alt text](https://github.com/dku4cdm/simple-routing-server/blob/master/second.PNG)
+# Third page
+![alt text](https://github.com/dku4cdm/simple-routing-server/blob/master/third.PNG)
